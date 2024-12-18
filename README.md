@@ -2,8 +2,6 @@
 
 ![Cool GIF](https://camo.githubusercontent.com/d14c72dffccadc996ca5433bec9ab3cacbc54bab9dca127cf2d05d69e2757980/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4e67757259316f347a3038304a666f797a772f67697068792e676966)
 
-![Girl Illustration](https://github.com/afraa786/afraa786/blob/main/image.png)  
-
 ## About Me  
 👋 Hi there! I'm **Afraa Shaikh**, and I'm passionate about learning and growing in the field of software development.  
 
