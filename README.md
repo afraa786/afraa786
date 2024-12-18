@@ -32,9 +32,4 @@ Currently, I'm diving into **Spring Boot** 🚀
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
     </a> 
 </p>
-# Github Stats
-<p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=afraa786&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
-
-</p>
 
