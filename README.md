@@ -4,6 +4,8 @@
 ## About Me
 Currently, I'm diving into **Spring Boot** 🚀
 
+![Profile Views](https://komarev.com/ghpvc/?username=afraa786&style=flat-square&color=blue)
+
 ## Languages and Tools:
 
 <p align="left"> 
