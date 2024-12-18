@@ -1,10 +1,21 @@
-# Welcome to My GitHub Profile 👋
+# Welcome to My GitHub Profile 👋  
+
 ![Cool GIF](https://camo.githubusercontent.com/d14c72dffccadc996ca5433bec9ab3cacbc54bab9dca127cf2d05d69e2757980/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4e67757259316f347a3038304a666f797a772f67697068792e676966)
 
-## About Me
-Currently, I'm diving into **Spring Boot** 🚀
+![Girl Illustration](https://github.com/afraa786/afraa786/blob/main/image.png)  
 
-![Profile Views](https://komarev.com/ghpvc/?username=afraa786&style=flat-square&color=blue)
+## About Me  
+👋 Hi there! I'm **Afraa Shaikh**, and I'm passionate about learning and growing in the field of software development.  
+
+🌱 Currently, I'm diving into **Spring Boot** 🚀 to master backend development and build scalable, robust applications.  
+
+💻 I love working with languages like **Java** and exploring frameworks like **Spring** to create efficient systems.  
+
+🎯 My goal is to contribute to projects that make a difference and continue expanding my skills in **Java**, **Spring Boot**, and **React**.  
+
+![Profile Views](https://komarev.com/ghpvc/?username=afraa786&style=flat-square&color=blue)  
+
+---
 
 ## Languages and Tools:
 
@@ -23,9 +34,9 @@ Currently, I'm diving into **Spring Boot** 🚀
     </a>
     <a href="https://maven.apache.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" alt="maven" width="40" height="40"/>
-        <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-</a>
+    </a>
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
     </a>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
@@ -34,4 +45,9 @@ Currently, I'm diving into **Spring Boot** 🚀
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
     </a> 
 </p>
+
+---
+
+⭐ **Thank you for stopping by! Let's connect and build something amazing together!** 😊
+
 
