@@ -3,13 +3,7 @@
 ![Cool GIF](https://camo.githubusercontent.com/d14c72dffccadc996ca5433bec9ab3cacbc54bab9dca127cf2d05d69e2757980/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4e67757259316f347a3038304a666f797a772f67697068792e676966)
 
 ## About Me
-I love coding and building amazing projects 🚀.
-I am a passionate coder who enjoys solving problems and building projects.
-Whether it's developing software, exploring new technologies, or learning more about algorithms, I’m always up for a challenge! 🚀
-Currently, I'm diving into **Spring Boot** and expanding my skills in backend development. I love learning new frameworks and tools to enhance my projects.
-
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=blue)
+Currently, I'm diving into **Spring Boot** 🚀
 
 ## Languages and Tools:
 
