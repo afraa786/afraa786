@@ -57,9 +57,16 @@
 </p>
 
 ### Connect with me👥🌐:
-<a href="https://www.linkedin.com/in/your-profile-name/" target="_blank">
+- [LinkedIn](https://www.linkedin.com/in/shaikh-afraa-a2211230a)
+- [Telegram](https://t.me/Afraa)
+
+<a href="https://www.linkedin.com/in/shaikh-afraa-a2211230a" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/>
 </a>
+<a href="https://t.me/Afraa" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Telegram_2019_logo.svg/1200px-Telegram_2019_logo.svg.png" alt="telegram" width="40" height="40"/>
+</a>
+
 
 
 ---
