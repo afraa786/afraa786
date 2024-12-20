@@ -54,12 +54,23 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40"/>
 </a>
+    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+</a>
+<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40"/>
+</a>
+<a href="https://www.eclipse.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" alt="eclipse" width="40" height="40"/>
+</a>
+
 </p>
 
 ## Connect with me👥🌐:
 - [LinkedIn](https://www.linkedin.com/in/shaikh-afraa-a2211230a)
 - [Telegram](https://t.me/Afraa)
 - [Instagram](https://www.instagram.com/afraa.shaikhh/)
+- [Twitter](https://twitter.com/AfraaShaikh)
 ---
 
 ⭐ **Thank you for stopping by! Let's connect and build something amazing together!** 😊
