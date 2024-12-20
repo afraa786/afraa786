@@ -42,6 +42,18 @@
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
     </a> 
+    <a href="https://docs.oracle.com/javase/8/docs/api/javax/swing/package-summary.html" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="java-swing" width="40" height="40"/>
+</a>
+<a href="https://docs.oracle.com/javase/8/docs/technotes/guides/2d/index.html" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="java-2d" width="40" height="40"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40"/>
+</a>
 </p>
 
 ---
