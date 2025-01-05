@@ -60,6 +60,10 @@
     <a href="https://maven.apache.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" alt="maven" width="40" height="40"/>
     </a>
+  <a href="https://www.thunderclient.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/ThunderClient/ThunderClient-Logo/master/thunderclient-logo.svg" alt="Thunder Client" width="40" height="40"/>
+</a>
+
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
     </a>
