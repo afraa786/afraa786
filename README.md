@@ -20,9 +20,6 @@
 
 <br>
 
-### 🏆 GitHub Trophies
-  [![trophy](https://github-profile-trophy.vercel.app/?username=afraa786&theme=onedark&title=-Followers)](https://github.com/afraa786/github-profile-trophy)
-
 ---
 <h3 align="left">Connect with me 👥🌐:</h3>
 <p align="left">
