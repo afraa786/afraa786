@@ -103,6 +103,11 @@
 </p>
 <br clear="both">
 
+
+### 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=afraa786&theme=onedark&title=-Followers)](https://github.com/Fareed95/github-profile-trophy)
+
 ---
 <div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=afraa786&limit=5&theme=vision-friendly-dark&combine_all_yearly_contributions=true" 
