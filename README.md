@@ -126,7 +126,8 @@
 </div>
 
 ---
-
+<p align="center">
+  <img width="90%" src="https://streak-stats.demolab.com?user=afraa786&theme=highcontrast&hide_border=true&border_radius=5&card_width=800" alt = 'Error Fetching the Streak stat data'>
 
 ---
 
