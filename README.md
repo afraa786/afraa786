@@ -106,7 +106,7 @@
 
 ### 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=afraa786&theme=onedark&title=-Followers)](https://github.com/Fareed95/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=afraa786&theme=onedark&title=-Followers)](https://github.com/afraa786/github-profile-trophy)
 
 ---
 <div align="center">
