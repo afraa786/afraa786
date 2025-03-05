@@ -104,6 +104,16 @@
 <br clear="both">
 
 ---
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=afraa786&limit=5&theme=vision-friendly-dark&combine_all_yearly_contributions=true" 
+       alt="Top Contributed Repos" width="70%">
+</div>
+
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=afraa786&style=for-the-badge&color=orange" alt="Profile Views"/>
+</div>
+
+---
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=afraa786&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
