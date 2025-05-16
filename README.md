@@ -3,20 +3,20 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Afraa</h1>
-<h3 align="center">A passionate Backend Developer from India</h3>
+<h3 align="center">A passionate Backend Dev</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/d14c72dffccadc996ca5433bec9ab3cacbc54bab9dca127cf2d05d69e2757980/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4e67757259316f347a3038304a666f797a772f67697068792e676966">
 
 <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=afraa786&label=Profile%20views&color=0e75b6&style=flat" alt="afraa786" /> 
 </p>
 
-👋 Hi there! I'm **Afraa Shaikh**, and I'm passionate about learning and growing in the field of software development.  
+👋 Hi, I’m Afraa Shaikh
 
-🌱 Currently, I'm diving into **Spring Boot** 🚀 to master backend development and build scalable, robust applications.  
+🌱 I'm currently deepening my expertise in Spring Boot, crafting scalable and robust backend systems that power real world applications.
 
-💻 I love working with languages like **Java** and exploring frameworks like **Spring** to create efficient systems.  
+💻 With a strong foundation in Java, I enjoy diving into the Spring ecosystem and pairing it with modern frontend frameworks to create full-stack magic
 
-🎯 My goal is to contribute to projects that make a difference and continue expanding my skills in **Java**, **Spring Boot**, and **React**.  
+🎯 My goal is to contribute to meaningful projects, continuously sharpen my skills, and grow.
 
 <br>
 
