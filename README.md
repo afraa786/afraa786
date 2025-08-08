@@ -6,11 +6,15 @@
 
 <h1 align="center">Hi 👋, I'm Afraa</h1>
 <h3 align="center">A passionate Backend Dev</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/d14c72dffccadc996ca5433bec9ab3cacbc54bab9dca127cf2d05d69e2757980/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4e67757259316f347a3038304a666f797a772f67697068792e676966">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/d14c72dffccadc996ca5433bec9ab3cacbc54bab9dca127cf2d05d69e2757980/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4e67757259316f347a3038304a666f797a772f67697068792e676966" />
 
 <p align="left"> 
-    <img src="https://komarev.com/ghpvc/?username=afraa786&label=Profile%20views&color=0e75b6&style=flat" alt="afraa786" /> 
+    <img src="https://komarev.com/ghpvc/?username=afraa786&label=Profile%20views&color=0e75b6&style=flat&height=20" alt="afraa786" /> 
 </p>
+<p align="left" />
+<img src="https://img.shields.io/badge/Status-Pink%20Vibes-pink?style=flat&logo=github&logoColor=white&height=20" />
+</p>
+
 
 👋 Hi, I’m Afraa Shaikh
 
