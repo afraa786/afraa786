@@ -124,10 +124,6 @@
        alt="Top Contributed Repos" width="70%">
 </div>
 
-<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=afraa786&style=for-the-badge&color=orange" alt="Profile Views"/>
-</div>
-
 ---
 
 <div align="center">
@@ -137,4 +133,4 @@
 
 ---
 
-⭐ **Thank you for stopping by! Let's connect and build something amazing together!** 😊
+⭐ **Thank you for stopping by! Let's connect** 😊
