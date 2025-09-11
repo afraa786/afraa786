@@ -22,7 +22,7 @@
 
 2. With a strong foundation in Java, I enjoy diving into the Spring ecosystem and pairing it with modern frontend frameworks to create full-stack magic
 
-3. My goal is to contribute to meaningful projects, continuously sharpen my skills, and grow.
+3. My goal is to continuously sharpen my skills, and grow.
 
 <br>
 
