@@ -4,7 +4,7 @@
 </p>
 
 
-👋 Hi, I’m Afraa Shaikh
+Hi, I’m Afraa
 
 1. I'm currently deepening my expertise in Spring Boot, crafting scalable and robust backend systems that power real world applications.
 
