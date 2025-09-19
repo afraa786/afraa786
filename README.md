@@ -1,11 +1,4 @@
 
-
-
-<h1 align="center">Hi, I'm Afraa</h1>
-<h3 align="center">A passionate Backend and ML Dev</h3>
-<p align="left"> 
-    <img src="https://komarev.com/ghpvc/?username=afraa786&label=Profile%20views&color=0e75b6&style=flat&height=20" alt="afraa786" /> 
-</p>
 <p align="left" />
 <img src="https://img.shields.io/badge/Status-Pink%20Vibes-pink?style=flat&logo=github&logoColor=white&height=20" />
 </p>
