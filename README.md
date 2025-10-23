@@ -54,7 +54,7 @@ Hi, I’m Afraa
          alt="kafka" width="40" height="40"/>
 </a>
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-  <img src ="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"
+  <img src ="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg"
        alt="fastapi" width="40" height="40"/>
 </a>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
