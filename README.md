@@ -53,12 +53,9 @@ Hi, I’m Afraa
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original-wordmark.svg" 
          alt="kafka" width="40" height="40"/>
 </a>
-     <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original-wordmark.svg" 
-         alt="kafka" width="40" height="40"/>
-</a>
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+  <img src ="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"
+       alt="fastapi" width="40" height="40"/>
 </a>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
