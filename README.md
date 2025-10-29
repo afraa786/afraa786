@@ -6,11 +6,7 @@
 
 Hi, I’m Afraa
 
-1. I'm currently deepening my expertise in Spring Boot, crafting scalable and robust backend systems that power real world applications.
-
-2. With a strong foundation in Java, I enjoy diving into the Spring ecosystem and pairing it with modern frontend frameworks to create full-stack magic
-
-3. My goal is to continuously sharpen my skills, and grow.
+I do Spring Boot for structure, AI for curiosity.
 
 <br>
 
