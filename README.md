@@ -8,8 +8,6 @@ Hi, I’m Afraa
 
 I do Spring Boot for structure, AI for curiosity.
 
-<br>
-
 
 ## Languages and Tools:
 
