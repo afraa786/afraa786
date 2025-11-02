@@ -9,7 +9,7 @@ Hi, I’m Afraa
 I do Spring Boot for structure, AI for curiosity.
 
 
-## Languages and Tools:
+## Stack:
 
 <p align="center"> 
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
