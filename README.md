@@ -1,9 +1,3 @@
-
-<p align="left" />
-<img src="https://img.shields.io/badge/Status-Pink%20Vibes-pink?style=flat&logo=github&logoColor=white&height=20" />
-</p>
-
-
 Hi, I’m Afraa
 
 I do Spring Boot for structure, AI for curiosity.
