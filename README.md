@@ -83,5 +83,32 @@ I do Spring Boot for structure, AI for curiosity.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
 </a>
 
+<a href="https://nginx.org/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" 
+       alt="Nginx" width="40" height="40"/>
+</a>
+
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+       alt="TypeScript" width="40" height="40"/>
+</a>
+
+<a href="https://www.kali.org/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original-wordmark.svg" 
+       alt="Kali Linux" width="40" height="40"/>
+</a>
+
+<a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" 
+       alt="Apache Spark" width="40" height="40"/>
+</a>
+
+<a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cassandra/cassandra-original.svg" 
+       alt="Apache Cassandra" width="40" height="40"/>
+</a>
+
+
+
 </p>
 <br clear="both">
