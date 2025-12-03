@@ -108,6 +108,10 @@ I do Spring Boot for structure, AI for curiosity.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" 
        alt="grafana" width="40" height="40"/>
 </a>
+<a href="https://prometheus.io/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg" 
+       alt="prometheus" width="40" height="40"/>
+  </a>
 
 </p>
 <br clear="both">
