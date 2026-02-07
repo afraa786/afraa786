@@ -28,7 +28,11 @@ I do Spring Boot for structure, AI for curiosity.
   <a href="https://dart.dev/" target="_blank" rel="noreferrer">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/>
   </a>
-     <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+  <a href="https://www.heroku.com/" target="_blank" rel="noreferrer">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/heroku/heroku-plain.svg" alt="heroku" width="40" height="40"/>
+  </a>
+
+   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
   <img src ="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg"
        alt="fastapi" width="40" height="40"/>
 </a>
